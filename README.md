@@ -22,7 +22,7 @@ Instructions:
 Changing the CSV Memory Path
 To modify the memory path where the CSV file is saved, follow these steps:
 1. Open the file "MainClass.java".
-2. Locate line 13 in the code.
+2. Locate line 11 in the code.
 3. Modify the file path specified in this line to point to the desired location where your CSV file is stored.
    Example: 
    List<Question> questionList = CSVReader.importCSV("C:\\Users\\TAUCHMANN_L\\Documents\\Eclipse\\de.pfh.lt\\files\\fragen.csv");
@@ -30,7 +30,7 @@ To modify the memory path where the CSV file is saved, follow these steps:
 Changing the Evaluation Storage Path
 To change the storage path for saving the evaluation results, follow these steps:
 1. Open the file "GUI.java".
-2. Navigate to line 17 in the code.
+2. Navigate to line 15 in the code.
 3. Adjust the file path specified in this line to point to the desired location where you want to save the evaluation results.
    Example:
    SaveResult evaluation = new SaveResult(selectedQuestions, answersList);
