@@ -1,0 +1,24 @@
+Testauswertung vom Test am: 2024-02-10_09-20-45
+
+Du hast 2 von 4 Fragen richtig beantwortet.
+
+Damit hast du Nicht Bestanden.
+
+Hier findest du eine Übersicht über die Fragen:
+
+Fragee 1 von 4 (R-89) du hast Richtig beantwortet! 
+Die Frage lautet: Bei 1:31 auf der Spieluhr im 4. Viertel nach einem erfolgreichen Korbwurf von A1 hat B1 den Ball hinter der Endlinie in seinen Händen, als in seinem Vorfeld ein Foul von A2 an B2 gepfiffen wird (5. Mannschaftsfoul). B2 erhält 1 Freiwurf ohne Aufstellung. Anschließend wirft Mannschaft B von ihrer Endlinie ein und kann wie zuvor einen Einwurfort entlang seiner Endlinie wählen. Richtig?
+Die Antwort lautet: Nein (Art. 34.1). A2 begeht ein Einwurffoul. B2 erhält 1 Freiwurf ohne Aufstellung unabhängig von der Anzahl der Mannschaftsfouls. Anschließend wirft Mannschaft B nächst der Stelle ein, an der sich das Einwurffoul ereignet hat, hier im Vorfeld von Mannschaft B. Die Wurfuhr mit der Restzeit, in diesem Falle mit 24 Sekunden, gestartet.
+ 
+Fragee 2 von 4 (R-54) du hast Falsch beantwortet! 
+Die Frage lautet: Bei einem Korbwurf von A1 ist der Ball in der Luft, als das Wurfuhr-Signal ertönt. Anschließend klemmt der Ball zwischen Ring und Spielbrett ein. Dies gilt für die Wurfuhr-Regel als Ringberührung. Richtig?
+Die Antwort lautet: Ja (Art. 29)
+ 
+Fragee 3 von 4 (R-62) du hast Falsch beantwortet! 
+Die Frage lautet: A1 wird bei ihrem erfolgreichen Korbwurf von B1 gefoult. Nach dem Foul, aber bevor der Ball ihre Hand verlassen hat, ertönt das Signal der Wurfuhr. Der Korb von A1 zählt. Richtig?
+Die Antwort lautet: Ja (Art. 29). Die Wurfuhr hätte mit dem Foul sofort gestoppt werden müssen und daher nicht ablaufen dürfen. Wurde die Spieluhr ebenfalls zu spät gestoppt, ist sie auf den Zeitpunkt des Fouls zu korrigieren.
+ 
+Fragee 4 von 4 (R-21) du hast Richtig beantwortet! 
+Die Frage lautet: Beim Eröffnungssprungball tippt Springer A1 den Ball ins Aus. B1 wirft ein und sobald der Ball nach dem Einwurf von B2 auf dem Spielfeld gefangen wurde, wird der Einwurfpfeil für Mannschaft A gesetzt. Richtig?
+Die Antwort lautet: Nein (Art. 12), bereits dann, wenn der Ball dem Einwerfer B1 zur Verfügung steht.
+ 

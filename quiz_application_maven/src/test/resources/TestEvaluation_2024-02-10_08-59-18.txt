@@ -1,0 +1,16 @@
+Testauswertung vom Test am: 2024-02-10_08-59-18
+
+Du hast 1 von 2 Fragen richtig beantwortet.
+
+Damit hast du Nicht Bestanden.
+
+Hier findest du eine Übersicht über die Fragen:
+
+Fragee 1 von 2 (R-63) du hast Falsch beantwortet! 
+Die Frage lautet: Als der Ball bei noch 17 Sekunden auf der Wurfuhr bei einem erfolgreichen Wurf von A1 in der Luft ist, begeht B2 im Vorfeld der Mannschaft A ein Foul an A2 (2. Mannschaftsfoul). Der Korb zählt und Mannschaft A erhält Einwurf nächst der Stelle des Fouls mit 17 Sekunden auf der Wurfuhr. Richtig?
+Die Antwort lautet: Nein (Art. 29/50). Der Korb zählt, aber Mannschaft A erhält beim Einwurf 14 Sekunden auf der Wurfuhr, da sie nach ihrem erfolgreichen Korbwurf neue Ballkontrolle im Vorfeld erlangt.
+ 
+Fragee 2 von 2 (R-71) du hast Richtig beantwortet! 
+Die Frage lautet: Zu Beginn des 2. Viertels wirft A1 an der Mittellinie zu A2 ein. A2 springt in seinem Rückfeld ab, landet im Vorfeld auf einem Fuß, fängt dann den eingeworfenen Ball und setzt danach den anderen Fuß in seinem Rückfeld auf. Das ist legal. Richtig?
+Die Antwort lautet: Ja (Art. 30). A2 hatte noch keinen Vorfeld-Status, da er beim Ballerhalt nur mit einem Fuß im Vorfeld war.
+ 

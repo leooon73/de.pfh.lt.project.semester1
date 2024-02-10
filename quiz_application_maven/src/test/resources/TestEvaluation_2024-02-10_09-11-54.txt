@@ -1,0 +1,28 @@
+Testauswertung vom Test am: 2024-02-10_09-11-54
+
+Du hast 2 von 5 Fragen richtig beantwortet.
+
+Damit hast du Nicht Bestanden.
+
+Hier findest du eine Übersicht über die Fragen:
+
+Fragee 1 von 5 (R-35) du hast Richtig beantwortet! 
+Die Frage lautet: Der Trainer darf Spielerwechsel beantragen.
+Die Antwort lautet: Nein (Art. 19)
+ 
+Fragee 2 von 5 (R-34) du hast Falsch beantwortet! 
+Die Frage lautet: Der 1. Trainer-Assistent darf Auszeiten beantragen. Richtig?
+Die Antwort lautet: Ja (Art. 18). Sowohl der Trainer als auch der 1. Trainer-Assistent dürfen Auszeiten beantragen.
+ 
+Fragee 3 von 5 (R-113) du hast Richtig beantwortet! 
+Die Frage lautet: Als der Ball bei einem erfolglosen Korbwurf von A1 in der Luft ist, bricht auf dem Spielfeld eine Gewalttätigkeit aus. Wenn sich alle Strafen kompensieren, wirft Mannschaft A von der Einwurfmarkierung in ihrem Vorfeld ein. Richtig? 
+Die Antwort lautet: "Nein (Art. 39). Keine Mannschaft hatte zum Zeitpunkt des Beginns der Gewalttätigkeit Ballkontrolle. Deshalb entsteht eine Sprungballsituation und Einwurf gemäß Wechselndem Ballbesitz.
+ 
+Fragee 4 von 5 (R-81) du hast Falsch beantwortet! 
+Die Frage lautet: Bei einem Korbwurf von A1 springt A2 zum Rebound. Dabei prallt er auf B2, der im No-Charge-Halbkreisbereich eine legale Verteidigungsposition eingenommen hat. Dies ist ein Charging-Foul von A2. Richtig?
+Die Antwort lautet: Ja (Art. 33). Bei einem Rebound wird die No-Charge-Halbkreisregel nicht angewendet.
+ 
+Fragee 5 von 5 (R-98) du hast Falsch beantwortet! 
+Die Frage lautet: Bei einem Korbwurf von A1 kommt es zu einem leichten Kontakt mit B1, der sich theatralisch fallen lässt. Mannschaft B ist bereits wegen Vortäuschen eines Fouls verwarnt. Die Schiedsrichterin pfeift ein Technisches Foul gegen B1. Richtig?
+Die Antwort lautet: Ja (Art. 36). Befindet sich A1 in einer Korbwurfbewegung, zählt ein erzielter Korb auch bei einem Technischen Foul der verteidigenden Mannschaft.
+ 
